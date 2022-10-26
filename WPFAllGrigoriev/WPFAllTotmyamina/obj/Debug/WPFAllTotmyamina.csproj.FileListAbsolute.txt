@@ -1,0 +1,96 @@
+D:\YandexDisk\YandexDisk\2022-2023\3 курс\МДК.05.02\Практика\Д-03-2ИСП\WPFAllTotmyamina\WPFAllTotmyamina\bin\Debug\WPFAllTotmyamina.exe.config
+D:\YandexDisk\YandexDisk\2022-2023\3 курс\МДК.05.02\Практика\Д-03-2ИСП\WPFAllTotmyamina\WPFAllTotmyamina\bin\Debug\WPFAllTotmyamina.exe
+D:\YandexDisk\YandexDisk\2022-2023\3 курс\МДК.05.02\Практика\Д-03-2ИСП\WPFAllTotmyamina\WPFAllTotmyamina\bin\Debug\WPFAllTotmyamina.pdb
+D:\YandexDisk\YandexDisk\2022-2023\3 курс\МДК.05.02\Практика\Д-03-2ИСП\WPFAllTotmyamina\WPFAllTotmyamina\obj\Debug\WPFAllTotmyamina.csproj.AssemblyReference.cache
+D:\YandexDisk\YandexDisk\2022-2023\3 курс\МДК.05.02\Практика\Д-03-2ИСП\WPFAllTotmyamina\WPFAllTotmyamina\obj\Debug\ResourceFolder\Dictionary.baml
+D:\YandexDisk\YandexDisk\2022-2023\3 курс\МДК.05.02\Практика\Д-03-2ИСП\WPFAllTotmyamina\WPFAllTotmyamina\obj\Debug\WindowFolder\AuthorizationWindow.g.cs
+D:\YandexDisk\YandexDisk\2022-2023\3 курс\МДК.05.02\Практика\Д-03-2ИСП\WPFAllTotmyamina\WPFAllTotmyamina\obj\Debug\App.g.cs
+D:\YandexDisk\YandexDisk\2022-2023\3 курс\МДК.05.02\Практика\Д-03-2ИСП\WPFAllTotmyamina\WPFAllTotmyamina\obj\Debug\WPFAllTotmyamina_MarkupCompile.cache
+D:\YandexDisk\YandexDisk\2022-2023\3 курс\МДК.05.02\Практика\Д-03-2ИСП\WPFAllTotmyamina\WPFAllTotmyamina\obj\Debug\WPFAllTotmyamina_MarkupCompile.lref
+D:\YandexDisk\YandexDisk\2022-2023\3 курс\МДК.05.02\Практика\Д-03-2ИСП\WPFAllTotmyamina\WPFAllTotmyamina\obj\Debug\WindowFolder\AuthorizationWindow.baml
+D:\YandexDisk\YandexDisk\2022-2023\3 курс\МДК.05.02\Практика\Д-03-2ИСП\WPFAllTotmyamina\WPFAllTotmyamina\obj\Debug\WPFAllTotmyamina.g.resources
+D:\YandexDisk\YandexDisk\2022-2023\3 курс\МДК.05.02\Практика\Д-03-2ИСП\WPFAllTotmyamina\WPFAllTotmyamina\obj\Debug\WPFAllTotmyamina.Properties.Resources.resources
+D:\YandexDisk\YandexDisk\2022-2023\3 курс\МДК.05.02\Практика\Д-03-2ИСП\WPFAllTotmyamina\WPFAllTotmyamina\obj\Debug\WPFAllTotmyamina.csproj.GenerateResource.cache
+D:\YandexDisk\YandexDisk\2022-2023\3 курс\МДК.05.02\Практика\Д-03-2ИСП\WPFAllTotmyamina\WPFAllTotmyamina\obj\Debug\WPFAllTotmyamina.csproj.CoreCompileInputs.cache
+D:\YandexDisk\YandexDisk\2022-2023\3 курс\МДК.05.02\Практика\Д-03-2ИСП\WPFAllTotmyamina\WPFAllTotmyamina\obj\Debug\WPFAllTotmyamina.exe
+D:\YandexDisk\YandexDisk\2022-2023\3 курс\МДК.05.02\Практика\Д-03-2ИСП\WPFAllTotmyamina\WPFAllTotmyamina\obj\Debug\WPFAllTotmyamina.pdb
+D:\YandexDisk\YandexDisk\2022-2023\3 курс\МДК.05.02\Практика\Д-03-2ИСП\WPFAllTotmyamina\WPFAllTotmyamina\obj\Debug\App.baml
+E:\YandexDisk\2022-2023\3 курс\МДК.05.02\Практика\Д-03-2ИСП\WPFAllTotmyamina (2)\WPFAllTotmyamina\obj\Debug\WPFAllTotmyamina.csproj.AssemblyReference.cache
+E:\YandexDisk\2022-2023\3 курс\МДК.05.02\Практика\Д-03-2ИСП\WPFAllTotmyamina (2)\WPFAllTotmyamina\obj\Debug\WindowFolder\AuthorizationWindow.g.cs
+E:\YandexDisk\2022-2023\3 курс\МДК.05.02\Практика\Д-03-2ИСП\WPFAllTotmyamina (2)\WPFAllTotmyamina\obj\Debug\WindowFolder\MenuSystemAdministratorWindow.g.cs
+E:\YandexDisk\2022-2023\3 курс\МДК.05.02\Практика\Д-03-2ИСП\WPFAllTotmyamina (2)\WPFAllTotmyamina\obj\Debug\WindowFolder\RegistrationWindow.g.cs
+E:\YandexDisk\2022-2023\3 курс\МДК.05.02\Практика\Д-03-2ИСП\WPFAllTotmyamina (2)\WPFAllTotmyamina\obj\Debug\App.g.cs
+E:\YandexDisk\2022-2023\3 курс\МДК.05.02\Практика\Д-03-2ИСП\WPFAllTotmyamina (2)\WPFAllTotmyamina\obj\Debug\WPFAllTotmyamina_MarkupCompile.cache
+E:\YandexDisk\2022-2023\3 курс\МДК.05.02\Практика\Д-03-2ИСП\WPFAllTotmyamina (2)\WPFAllTotmyamina\obj\Debug\WPFAllTotmyamina_MarkupCompile.lref
+E:\YandexDisk\2022-2023\3 курс\МДК.05.02\Практика\Д-03-2ИСП\WPFAllTotmyamina (2)\WPFAllTotmyamina\obj\Debug\WPFAllTotmyamina.exe
+E:\YandexDisk\2022-2023\3 курс\МДК.05.02\Практика\Д-03-2ИСП\WPFAllTotmyamina (2)\WPFAllTotmyamina\obj\Debug\WPFAllTotmyamina.pdb
+E:\YandexDisk\2022-2023\3 курс\МДК.05.02\Практика\Д-03-2ИСП\WPFAllTotmyamina (2)\WPFAllTotmyamina\bin\Debug\WPFAllTotmyamina.exe.config
+E:\YandexDisk\2022-2023\3 курс\МДК.05.02\Практика\Д-03-2ИСП\WPFAllTotmyamina (2)\WPFAllTotmyamina\bin\Debug\WPFAllTotmyamina.exe
+E:\YandexDisk\2022-2023\3 курс\МДК.05.02\Практика\Д-03-2ИСП\WPFAllTotmyamina (2)\WPFAllTotmyamina\bin\Debug\WPFAllTotmyamina.pdb
+E:\YandexDisk\2022-2023\3 курс\МДК.05.02\Практика\Д-03-2ИСП\WPFAllTotmyamina (2)\WPFAllTotmyamina\obj\Debug\ResourceFolder\Dictionary.baml
+E:\YandexDisk\2022-2023\3 курс\МДК.05.02\Практика\Д-03-2ИСП\WPFAllTotmyamina (2)\WPFAllTotmyamina\obj\Debug\App.baml
+E:\YandexDisk\2022-2023\3 курс\МДК.05.02\Практика\Д-03-2ИСП\WPFAllTotmyamina (2)\WPFAllTotmyamina\obj\Debug\WindowFolder\AuthorizationWindow.baml
+E:\YandexDisk\2022-2023\3 курс\МДК.05.02\Практика\Д-03-2ИСП\WPFAllTotmyamina (2)\WPFAllTotmyamina\obj\Debug\WindowFolder\MenuSystemAdministratorWindow.baml
+E:\YandexDisk\2022-2023\3 курс\МДК.05.02\Практика\Д-03-2ИСП\WPFAllTotmyamina (2)\WPFAllTotmyamina\obj\Debug\WindowFolder\RegistrationWindow.baml
+E:\YandexDisk\2022-2023\3 курс\МДК.05.02\Практика\Д-03-2ИСП\WPFAllTotmyamina (2)\WPFAllTotmyamina\obj\Debug\WPFAllTotmyamina.g.resources
+E:\YandexDisk\2022-2023\3 курс\МДК.05.02\Практика\Д-03-2ИСП\WPFAllTotmyamina (2)\WPFAllTotmyamina\obj\Debug\WPFAllTotmyamina.Properties.Resources.resources
+E:\YandexDisk\2022-2023\3 курс\МДК.05.02\Практика\Д-03-2ИСП\WPFAllTotmyamina (2)\WPFAllTotmyamina\obj\Debug\WPFAllTotmyamina.csproj.GenerateResource.cache
+E:\YandexDisk\2022-2023\3 курс\МДК.05.02\Практика\Д-03-2ИСП\WPFAllTotmyamina (2)\WPFAllTotmyamina\obj\Debug\WPFAllTotmyamina.csproj.CoreCompileInputs.cache
+E:\YandexDisk\2022-2023\3 курс\МДК.05.02\Практика\Д-03-2ИСП\WPFAllTotmyamina (2)\WPFAllTotmyamina\obj\Debug\WindowFolder\SystemAdministratorFolder\ListUserWindow.g.cs
+E:\YandexDisk\2022-2023\3 курс\МДК.05.02\Практика\Д-03-2ИСП\WPFAllTotmyamina (2)\WPFAllTotmyamina\obj\Debug\WindowFolder\SystemAdministratorFolder\MenuSystemAdministratorWindow.g.cs
+D:\YandexDisk\YandexDisk\2022-2023\3 курс\МДК.05.02\Практика\Д-03-2ИСП\WPFAllTotmyamina (2)\WPFAllTotmyamina\bin\Debug\WPFAllTotmyamina.exe.config
+D:\YandexDisk\YandexDisk\2022-2023\3 курс\МДК.05.02\Практика\Д-03-2ИСП\WPFAllTotmyamina (2)\WPFAllTotmyamina\bin\Debug\WPFAllTotmyamina.exe
+D:\YandexDisk\YandexDisk\2022-2023\3 курс\МДК.05.02\Практика\Д-03-2ИСП\WPFAllTotmyamina (2)\WPFAllTotmyamina\bin\Debug\WPFAllTotmyamina.pdb
+D:\YandexDisk\YandexDisk\2022-2023\3 курс\МДК.05.02\Практика\Д-03-2ИСП\WPFAllTotmyamina (2)\WPFAllTotmyamina\obj\Debug\WPFAllTotmyamina.csproj.AssemblyReference.cache
+D:\YandexDisk\YandexDisk\2022-2023\3 курс\МДК.05.02\Практика\Д-03-2ИСП\WPFAllTotmyamina (2)\WPFAllTotmyamina\obj\Debug\ResourceFolder\Dictionary.baml
+D:\YandexDisk\YandexDisk\2022-2023\3 курс\МДК.05.02\Практика\Д-03-2ИСП\WPFAllTotmyamina (2)\WPFAllTotmyamina\obj\Debug\WindowFolder\AuthorizationWindow.g.cs
+D:\YandexDisk\YandexDisk\2022-2023\3 курс\МДК.05.02\Практика\Д-03-2ИСП\WPFAllTotmyamina (2)\WPFAllTotmyamina\obj\Debug\WindowFolder\SystemAdministratorFolder\AddUserWindow.g.cs
+D:\YandexDisk\YandexDisk\2022-2023\3 курс\МДК.05.02\Практика\Д-03-2ИСП\WPFAllTotmyamina (2)\WPFAllTotmyamina\obj\Debug\WindowFolder\SystemAdministratorFolder\ListOfProductsWindow.g.cs
+D:\YandexDisk\YandexDisk\2022-2023\3 курс\МДК.05.02\Практика\Д-03-2ИСП\WPFAllTotmyamina (2)\WPFAllTotmyamina\obj\Debug\WindowFolder\SystemAdministratorFolder\ListUserWindow.g.cs
+D:\YandexDisk\YandexDisk\2022-2023\3 курс\МДК.05.02\Практика\Д-03-2ИСП\WPFAllTotmyamina (2)\WPFAllTotmyamina\obj\Debug\WindowFolder\SystemAdministratorFolder\MenuSystemAdministratorWindow.g.cs
+D:\YandexDisk\YandexDisk\2022-2023\3 курс\МДК.05.02\Практика\Д-03-2ИСП\WPFAllTotmyamina (2)\WPFAllTotmyamina\obj\Debug\WindowFolder\RegistrationWindow.g.cs
+D:\YandexDisk\YandexDisk\2022-2023\3 курс\МДК.05.02\Практика\Д-03-2ИСП\WPFAllTotmyamina (2)\WPFAllTotmyamina\obj\Debug\App.g.cs
+D:\YandexDisk\YandexDisk\2022-2023\3 курс\МДК.05.02\Практика\Д-03-2ИСП\WPFAllTotmyamina (2)\WPFAllTotmyamina\obj\Debug\WPFAllTotmyamina_MarkupCompile.cache
+D:\YandexDisk\YandexDisk\2022-2023\3 курс\МДК.05.02\Практика\Д-03-2ИСП\WPFAllTotmyamina (2)\WPFAllTotmyamina\obj\Debug\WPFAllTotmyamina_MarkupCompile.lref
+D:\YandexDisk\YandexDisk\2022-2023\3 курс\МДК.05.02\Практика\Д-03-2ИСП\WPFAllTotmyamina (2)\WPFAllTotmyamina\obj\Debug\App.baml
+D:\YandexDisk\YandexDisk\2022-2023\3 курс\МДК.05.02\Практика\Д-03-2ИСП\WPFAllTotmyamina (2)\WPFAllTotmyamina\obj\Debug\WindowFolder\AuthorizationWindow.baml
+D:\YandexDisk\YandexDisk\2022-2023\3 курс\МДК.05.02\Практика\Д-03-2ИСП\WPFAllTotmyamina (2)\WPFAllTotmyamina\obj\Debug\WindowFolder\RegistrationWindow.baml
+D:\YandexDisk\YandexDisk\2022-2023\3 курс\МДК.05.02\Практика\Д-03-2ИСП\WPFAllTotmyamina (2)\WPFAllTotmyamina\obj\Debug\WindowFolder\SystemAdministratorFolder\ListUserWindow.baml
+D:\YandexDisk\YandexDisk\2022-2023\3 курс\МДК.05.02\Практика\Д-03-2ИСП\WPFAllTotmyamina (2)\WPFAllTotmyamina\obj\Debug\WindowFolder\SystemAdministratorFolder\MenuSystemAdministratorWindow.baml
+D:\YandexDisk\YandexDisk\2022-2023\3 курс\МДК.05.02\Практика\Д-03-2ИСП\WPFAllTotmyamina (2)\WPFAllTotmyamina\obj\Debug\WindowFolder\SystemAdministratorFolder\AddUserWindow.baml
+D:\YandexDisk\YandexDisk\2022-2023\3 курс\МДК.05.02\Практика\Д-03-2ИСП\WPFAllTotmyamina (2)\WPFAllTotmyamina\obj\Debug\WindowFolder\SystemAdministratorFolder\ListOfProductsWindow.baml
+D:\YandexDisk\YandexDisk\2022-2023\3 курс\МДК.05.02\Практика\Д-03-2ИСП\WPFAllTotmyamina (2)\WPFAllTotmyamina\obj\Debug\WPFAllTotmyamina.g.resources
+D:\YandexDisk\YandexDisk\2022-2023\3 курс\МДК.05.02\Практика\Д-03-2ИСП\WPFAllTotmyamina (2)\WPFAllTotmyamina\obj\Debug\WPFAllTotmyamina.Properties.Resources.resources
+D:\YandexDisk\YandexDisk\2022-2023\3 курс\МДК.05.02\Практика\Д-03-2ИСП\WPFAllTotmyamina (2)\WPFAllTotmyamina\obj\Debug\WPFAllTotmyamina.csproj.GenerateResource.cache
+D:\YandexDisk\YandexDisk\2022-2023\3 курс\МДК.05.02\Практика\Д-03-2ИСП\WPFAllTotmyamina (2)\WPFAllTotmyamina\obj\Debug\WPFAllTotmyamina.csproj.CoreCompileInputs.cache
+D:\YandexDisk\YandexDisk\2022-2023\3 курс\МДК.05.02\Практика\Д-03-2ИСП\WPFAllTotmyamina (2)\WPFAllTotmyamina\obj\Debug\WPFAllTotmyamina.exe
+D:\YandexDisk\YandexDisk\2022-2023\3 курс\МДК.05.02\Практика\Д-03-2ИСП\WPFAllTotmyamina (2)\WPFAllTotmyamina\obj\Debug\WPFAllTotmyamina.pdb
+C:\Users\WSR34\Proga_24_10-master\proga_24_10\WPFAllTotmyamina (2) (2)\WPFAllTotmyamina (2) (2)\WPFAllTotmyamina\bin\Debug\WPFAllTotmyamina.exe.config
+C:\Users\WSR34\Proga_24_10-master\proga_24_10\WPFAllTotmyamina (2) (2)\WPFAllTotmyamina (2) (2)\WPFAllTotmyamina\bin\Debug\WPFAllTotmyamina.exe
+C:\Users\WSR34\Proga_24_10-master\proga_24_10\WPFAllTotmyamina (2) (2)\WPFAllTotmyamina (2) (2)\WPFAllTotmyamina\bin\Debug\WPFAllTotmyamina.pdb
+C:\Users\WSR34\Proga_24_10-master\proga_24_10\WPFAllTotmyamina (2) (2)\WPFAllTotmyamina (2) (2)\WPFAllTotmyamina\obj\Debug\WPFAllTotmyamina.csproj.AssemblyReference.cache
+C:\Users\WSR34\Proga_24_10-master\proga_24_10\WPFAllTotmyamina (2) (2)\WPFAllTotmyamina (2) (2)\WPFAllTotmyamina\obj\Debug\ResourceFolder\Dictionary.baml
+C:\Users\WSR34\Proga_24_10-master\proga_24_10\WPFAllTotmyamina (2) (2)\WPFAllTotmyamina (2) (2)\WPFAllTotmyamina\obj\Debug\WindowFolder\AuthorizationWindow.g.cs
+C:\Users\WSR34\Proga_24_10-master\proga_24_10\WPFAllTotmyamina (2) (2)\WPFAllTotmyamina (2) (2)\WPFAllTotmyamina\obj\Debug\WindowFolder\SystemAdministratorFolder\AddUserWindow.g.cs
+C:\Users\WSR34\Proga_24_10-master\proga_24_10\WPFAllTotmyamina (2) (2)\WPFAllTotmyamina (2) (2)\WPFAllTotmyamina\obj\Debug\WindowFolder\SystemAdministratorFolder\ListOfProductsWindow.g.cs
+C:\Users\WSR34\Proga_24_10-master\proga_24_10\WPFAllTotmyamina (2) (2)\WPFAllTotmyamina (2) (2)\WPFAllTotmyamina\obj\Debug\WindowFolder\SystemAdministratorFolder\ListUserWindow.g.cs
+C:\Users\WSR34\Proga_24_10-master\proga_24_10\WPFAllTotmyamina (2) (2)\WPFAllTotmyamina (2) (2)\WPFAllTotmyamina\obj\Debug\WindowFolder\SystemAdministratorFolder\MenuSystemAdministratorWindow.g.cs
+C:\Users\WSR34\Proga_24_10-master\proga_24_10\WPFAllTotmyamina (2) (2)\WPFAllTotmyamina (2) (2)\WPFAllTotmyamina\obj\Debug\WindowFolder\RegistrationWindow.g.cs
+C:\Users\WSR34\Proga_24_10-master\proga_24_10\WPFAllTotmyamina (2) (2)\WPFAllTotmyamina (2) (2)\WPFAllTotmyamina\obj\Debug\App.g.cs
+C:\Users\WSR34\Proga_24_10-master\proga_24_10\WPFAllTotmyamina (2) (2)\WPFAllTotmyamina (2) (2)\WPFAllTotmyamina\obj\Debug\WPFAllTotmyamina_MarkupCompile.cache
+C:\Users\WSR34\Proga_24_10-master\proga_24_10\WPFAllTotmyamina (2) (2)\WPFAllTotmyamina (2) (2)\WPFAllTotmyamina\obj\Debug\WPFAllTotmyamina_MarkupCompile.lref
+C:\Users\WSR34\Proga_24_10-master\proga_24_10\WPFAllTotmyamina (2) (2)\WPFAllTotmyamina (2) (2)\WPFAllTotmyamina\obj\Debug\App.baml
+C:\Users\WSR34\Proga_24_10-master\proga_24_10\WPFAllTotmyamina (2) (2)\WPFAllTotmyamina (2) (2)\WPFAllTotmyamina\obj\Debug\WindowFolder\AuthorizationWindow.baml
+C:\Users\WSR34\Proga_24_10-master\proga_24_10\WPFAllTotmyamina (2) (2)\WPFAllTotmyamina (2) (2)\WPFAllTotmyamina\obj\Debug\WindowFolder\SystemAdministratorFolder\AddUserWindow.baml
+C:\Users\WSR34\Proga_24_10-master\proga_24_10\WPFAllTotmyamina (2) (2)\WPFAllTotmyamina (2) (2)\WPFAllTotmyamina\obj\Debug\WindowFolder\SystemAdministratorFolder\ListOfProductsWindow.baml
+C:\Users\WSR34\Proga_24_10-master\proga_24_10\WPFAllTotmyamina (2) (2)\WPFAllTotmyamina (2) (2)\WPFAllTotmyamina\obj\Debug\WindowFolder\SystemAdministratorFolder\ListUserWindow.baml
+C:\Users\WSR34\Proga_24_10-master\proga_24_10\WPFAllTotmyamina (2) (2)\WPFAllTotmyamina (2) (2)\WPFAllTotmyamina\obj\Debug\WindowFolder\SystemAdministratorFolder\MenuSystemAdministratorWindow.baml
+C:\Users\WSR34\Proga_24_10-master\proga_24_10\WPFAllTotmyamina (2) (2)\WPFAllTotmyamina (2) (2)\WPFAllTotmyamina\obj\Debug\WindowFolder\RegistrationWindow.baml
+C:\Users\WSR34\Proga_24_10-master\proga_24_10\WPFAllTotmyamina (2) (2)\WPFAllTotmyamina (2) (2)\WPFAllTotmyamina\obj\Debug\WPFAllTotmyamina.g.resources
+C:\Users\WSR34\Proga_24_10-master\proga_24_10\WPFAllTotmyamina (2) (2)\WPFAllTotmyamina (2) (2)\WPFAllTotmyamina\obj\Debug\WPFAllTotmyamina.Properties.Resources.resources
+C:\Users\WSR34\Proga_24_10-master\proga_24_10\WPFAllTotmyamina (2) (2)\WPFAllTotmyamina (2) (2)\WPFAllTotmyamina\obj\Debug\WPFAllTotmyamina.csproj.GenerateResource.cache
+C:\Users\WSR34\Proga_24_10-master\proga_24_10\WPFAllTotmyamina (2) (2)\WPFAllTotmyamina (2) (2)\WPFAllTotmyamina\obj\Debug\WPFAllTotmyamina.csproj.CoreCompileInputs.cache
+C:\Users\WSR34\Proga_24_10-master\proga_24_10\WPFAllTotmyamina (2) (2)\WPFAllTotmyamina (2) (2)\WPFAllTotmyamina\obj\Debug\WPFAllTotmyamina.exe
+C:\Users\WSR34\Proga_24_10-master\proga_24_10\WPFAllTotmyamina (2) (2)\WPFAllTotmyamina (2) (2)\WPFAllTotmyamina\obj\Debug\WPFAllTotmyamina.pdb
+C:\Users\WSR34\Proga_24_10-master\proga_24_10\WPFAllTotmyamina (2) (2)\WPFAllTotmyamina (2) (2)\WPFAllTotmyamina\obj\Debug\WindowFolder\NUCLEAR_WEAPON.g.cs
+C:\Users\WSR34\Proga_24_10-master\proga_24_10\WPFAllTotmyamina (2) (2)\WPFAllTotmyamina (2) (2)\WPFAllTotmyamina\obj\Debug\WindowFolder\NUCLEAR_WEAPON.baml

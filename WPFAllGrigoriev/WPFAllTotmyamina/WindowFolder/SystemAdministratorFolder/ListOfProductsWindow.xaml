@@ -1,0 +1,67 @@
+﻿<Window x:Class="WPFAllTotmyamina.WindowFolder.SystemAdministratorFolder.ListOfProductsWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPFAllTotmyamina.WindowFolder.SystemAdministratorFolder"
+        mc:Ignorable="d"
+        Title="Список продуктов" 
+        Height="750" Width="1400"
+        WindowStartupLocation="CenterScreen">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="10"/>
+            <ColumnDefinition Width="120"/>
+            <ColumnDefinition/>
+            <ColumnDefinition Width="10"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="10"/>
+            <RowDefinition Height="90"/>
+            <RowDefinition Height="10"/>
+
+            <RowDefinition Height="70"/>
+            <RowDefinition Height="10"/>
+            <RowDefinition />
+            <RowDefinition Height="10"/>
+        </Grid.RowDefinitions>
+
+        <Image Style="{DynamicResource LogoImage}"
+               Grid.Column="1" Grid.Row="1"/>
+
+        <Label Content="Список продуктов"
+               Grid.Row="1" Grid.Column="2"
+               Style="{DynamicResource HeadingLabel}"/>
+
+        <Label Content="Поиск"
+               Grid.Row="3"
+               Grid.Column="1"
+               Style="{DynamicResource OrdinaryLabel}"/>
+        <TextBox x:Name="SearchTb"
+                 Grid.Row="3" 
+                 Grid.Column="2"/>
+
+        <DataGrid x:Name="ProductsDG" IsReadOnly="True" 
+                  AutoGenerateColumns="False" Grid.Column="1" 
+                  Grid.ColumnSpan="2"
+                  Grid.Row="5">
+            <DataGrid.Columns>
+                <DataGridTextColumn x:Name="dgTcIdUser"
+                                    Header="№ п/п"/>
+                <DataGridTextColumn x:Name="dgTcName"
+                                    Header="Наименование"
+                                    Width="*"/>
+                <DataGridTextColumn x:Name="dgTcCount"
+                                    Header="Количество"
+                                    Width="*"/>
+                <DataGridTextColumn x:Name="dgTcPrice"
+                                    Header="Цена за единицу"
+                                    Width="*"/>
+                <DataGridTextColumn x:Name="dgTcItogPrice"
+                                    Header="Итоговая цена"
+                                    Width="*"/>
+
+            </DataGrid.Columns>
+        </DataGrid>
+    </Grid>
+</Window>

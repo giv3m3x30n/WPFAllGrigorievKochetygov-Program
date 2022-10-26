@@ -1,0 +1,70 @@
+﻿<Window x:Class="WPFAllTotmyamina.WindowFolder.MenuSystemAdministratorWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPFAllTotmyamina.WindowFolder"
+        mc:Ignorable="d"
+        Title="Меню администратора системы" 
+        Height="450" Width="500"
+        WindowStartupLocation="CenterScreen">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="10"/>
+            <ColumnDefinition Width="120"/>
+            <ColumnDefinition/>
+            <ColumnDefinition Width="10"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="10"/>
+            <RowDefinition/>
+            <RowDefinition Height="10"/>
+
+            <RowDefinition Height="70"/>
+            <RowDefinition Height="10"/>
+
+            <RowDefinition Height="70"/>
+            <RowDefinition Height="10"/>
+
+            <RowDefinition Height="70"/>
+            <RowDefinition Height="10"/>
+            <RowDefinition Height="70"/>
+            <RowDefinition Height="10"/>
+        </Grid.RowDefinitions>
+        
+        <Image Style="{DynamicResource LogoImage}"
+               Grid.Column="1" Grid.Row="1"/>
+
+
+        <TextBlock Text="Меню администратора системы"
+                   TextWrapping="Wrap"
+               Grid.Row="1" Grid.Column="2"
+               Style="{DynamicResource HeadingTextBlock}"/>
+
+        <Button x:Name="ListUserBtn"
+                Content="Список пользователей"
+                Grid.Column="1"
+                Grid.Row="3"
+                Grid.ColumnSpan="2"
+                Click="ListUserBtn_Click"/>
+        <Button x:Name="AddUserBtn"
+                Content="Добавить пользователя"
+                Grid.Column="1"
+                Grid.Row="5"
+                Grid.ColumnSpan="2"
+                Click="AddUserBtn_Click"/>
+        <Button x:Name="ListOfProductsBtn"
+                Content="Список продуктов"
+                Grid.Column="1"
+                Grid.Row="7"
+                Grid.ColumnSpan="2"
+                Click="ListOfProductsBtn_Click"/>
+
+        <Button x:Name="ListOfOrdersBtn"
+                Content="Список заказов"
+                Grid.Column="1"
+                Grid.Row="9"
+                Grid.ColumnSpan="2"
+                Click="ListOfOrdersBtn_Click"/>
+    </Grid>
+</Window>
